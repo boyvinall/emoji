@@ -1,0 +1,11 @@
+{
+	"fenced-code-language": false,
+	"no-inline-html": false,
+	"line-length": {
+		"line_length": 140
+	},
+	"ul-style": false,
+	"no-missing-space-atx": false,
+	"no-alt-text": false,
+	"code-block-style": false
+}
