@@ -122,6 +122,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:niceone:</code></td><td><img src="images/niceone.png" width="32px"></td></tr>
 <tr><td><code>:niiice:</code></td><td><img src="images/niiice.gif" width="32px"></td></tr>
 <tr><td><code>:ninja:</code></td><td><img src="images/ninja.gif" width="32px"></td></tr>
+<tr><td><code>:no-bell:</code></td><td><img src="images/no-bell.png" width="32px"></td></tr>
 <tr><td><code>:no-docs:</code></td><td><img src="images/no-docs.png" width="32px"></td></tr>
 <tr><td><code>:no-internet:</code></td><td><img src="images/no-internet.png" width="32px"></td></tr>
 <tr><td><code>:noice:</code></td><td><img src="images/noice.gif" width="32px"></td></tr>
