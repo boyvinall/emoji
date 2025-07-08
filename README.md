@@ -21,6 +21,8 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:ai-thumbsup:</code></td><td><img src="images/ai-thumbsup.png" width="32px"></td></tr>
 <tr><td><code>:alert:</code></td><td><img src="images/alert.gif" width="32px"></td></tr>
 <tr><td><code>:all-the-things:</code></td><td><img src="images/all-the-things.jpg" width="32px"></td></tr>
+<tr><td><code>:amaze:</code></td><td><img src="images/amaze.gif" width="32px"></td></tr>
+<tr><td><code>:angry-potato:</code></td><td><img src="images/angry-potato.gif" width="32px"></td></tr>
 <tr><td><code>:approved-stamp:</code></td><td><img src="images/approved-stamp.png" width="32px"></td></tr>
 <tr><td><code>:approvedd:</code></td><td><img src="images/approvedd.png" width="32px"></td></tr>
 <tr><td><code>:aw-yeah:</code></td><td><img src="images/aw-yeah.gif" width="32px"></td></tr>
@@ -45,6 +47,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:carlton:</code></td><td><img src="images/carlton.gif" width="32px"></td></tr>
 <tr><td><code>:cat-clap:</code></td><td><img src="images/cat-clap.gif" width="32px"></td></tr>
 <tr><td><code>:celebrate:</code></td><td><img src="images/celebrate.gif" width="32px"></td></tr>
+<tr><td><code>:centos:</code></td><td><img src="images/centos.png" width="32px"></td></tr>
 <tr><td><code>:ceph-growing:</code></td><td><img src="images/ceph-growing.gif" width="32px"></td></tr>
 <tr><td><code>:changing-emoji:</code></td><td><img src="images/changing-emoji.gif" width="32px"></td></tr>
 <tr><td><code>:chart-with-downwards-trend:</code></td><td><img src="images/chart-with-downwards-trend.png" width="32px"></td></tr>
@@ -57,8 +60,10 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:community:</code></td><td><img src="images/community.png" width="32px"></td></tr>
 <tr><td><code>:confused-dog:</code></td><td><img src="images/confused-dog.gif" width="32px"></td></tr>
 <tr><td><code>:cool-dog:</code></td><td><img src="images/cool-dog.gif" width="32px"></td></tr>
+<tr><td><code>:copy-paste:</code></td><td><img src="images/copy-paste.gif" width="32px"></td></tr>
 <tr><td><code>:cry-a-lot:</code></td><td><img src="images/cry-a-lot.png" width="32px"></td></tr>
 <tr><td><code>:cry-spin:</code></td><td><img src="images/cry-spin.gif" width="32px"></td></tr>
+<tr><td><code>:dab-panda:</code></td><td><img src="images/dab-panda.png" width="32px"></td></tr>
 <tr><td><code>:dart:</code></td><td><img src="images/dart.png" width="32px"></td></tr>
 <tr><td><code>:data-party:</code></td><td><img src="images/data-party.gif" width="32px"></td></tr>
 <tr><td><code>:disappear-in-a-puff-of-smoke:</code></td><td><img src="images/disappear-in-a-puff-of-smoke.gif" width="32px"></td></tr>
@@ -129,6 +134,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:nooooooooo:</code></td><td><img src="images/nooooooooo.gif" width="32px"></td></tr>
 <tr><td><code>:nopain:</code></td><td><img src="images/nopain.jpg" width="32px"></td></tr>
 <tr><td><code>:nope:</code></td><td><img src="images/nope.gif" width="32px"></td></tr>
+<tr><td><code>:not-me:</code></td><td><img src="images/not-me.jpg" width="32px"></td></tr>
 <tr><td><code>:np:</code></td><td><img src="images/np.gif" width="32px"></td></tr>
 <tr><td><code>:nuclear-bomb:</code></td><td><img src="images/nuclear-bomb.gif" width="32px"></td></tr>
 <tr><td><code>:oh-no:</code></td><td><img src="images/oh-no.png" width="32px"></td></tr>
@@ -158,6 +164,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:poolparty:</code></td><td><img src="images/poolparty.gif" width="32px"></td></tr>
 <tr><td><code>:poopparrot:</code></td><td><img src="images/poopparrot.gif" width="32px"></td></tr>
 <tr><td><code>:potato-siren:</code></td><td><img src="images/potato-siren.gif" width="32px"></td></tr>
+<tr><td><code>:potato:</code></td><td><img src="images/potato.png" width="32px"></td></tr>
 <tr><td><code>:powerrangers-fistbump:</code></td><td><img src="images/powerrangers-fistbump.png" width="32px"></td></tr>
 <tr><td><code>:powerup:</code></td><td><img src="images/powerup.gif" width="32px"></td></tr>
 <tr><td><code>:pr-merged:</code></td><td><img src="images/pr-merged.png" width="32px"></td></tr>
@@ -168,6 +175,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:ruby:</code></td><td><img src="images/ruby.png" width="32px"></td></tr>
 <tr><td><code>:sad-blob:</code></td><td><img src="images/sad-blob.gif" width="32px"></td></tr>
 <tr><td><code>:sad-kid:</code></td><td><img src="images/sad-kid.gif" width="32px"></td></tr>
+<tr><td><code>:sadpanda:</code></td><td><img src="images/sadpanda.png" width="32px"></td></tr>
 <tr><td><code>:salute-sob:</code></td><td><img src="images/salute-sob.png" width="32px"></td></tr>
 <tr><td><code>:same:</code></td><td><img src="images/same.png" width="32px"></td></tr>
 <tr><td><code>:scalability:</code></td><td><img src="images/scalability.png" width="32px"></td></tr>
@@ -211,10 +219,12 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:triggered-shiba:</code></td><td><img src="images/triggered-shiba.gif" width="32px"></td></tr>
 <tr><td><code>:troll:</code></td><td><img src="images/troll.png" width="32px"></td></tr>
 <tr><td><code>:truck:</code></td><td><img src="images/truck.png" width="32px"></td></tr>
+<tr><td><code>:try-not-to-cry:</code></td><td><img src="images/try-not-to-cry.gif" width="32px"></td></tr>
 <tr><td><code>:tumbleweed:</code></td><td><img src="images/tumbleweed.gif" width="32px"></td></tr>
 <tr><td><code>:ty:</code></td><td><img src="images/ty.gif" width="32px"></td></tr>
 <tr><td><code>:typing-frog:</code></td><td><img src="images/typing-frog.gif" width="32px"></td></tr>
 <tr><td><code>:tzzz:</code></td><td><img src="images/tzzz.png" width="32px"></td></tr>
+<tr><td><code>:ubuntu:</code></td><td><img src="images/ubuntu.png" width="32px"></td></tr>
 <tr><td><code>:vacationintensifies:</code></td><td><img src="images/vacationintensifies.gif" width="32px"></td></tr>
 <tr><td><code>:vibe:</code></td><td><img src="images/vibe.gif" width="32px"></td></tr>
 <tr><td><code>:waiting:</code></td><td><img src="images/waiting.gif" width="32px"></td></tr>
