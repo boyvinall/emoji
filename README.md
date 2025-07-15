@@ -176,6 +176,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:reboot:</code></td><td><img src="images/reboot.png" width="32px"></td></tr>
 <tr><td><code>:rick:</code></td><td><img src="images/rick.gif" width="32px"></td></tr>
 <tr><td><code>:rocket-down:</code></td><td><img src="images/rocket-down.png" width="32px"></td></tr>
+<tr><td><code>:rubberduck:</code></td><td><img src="images/rubberduck.png" width="32px"></td></tr>
 <tr><td><code>:ruby:</code></td><td><img src="images/ruby.png" width="32px"></td></tr>
 <tr><td><code>:sad-blob:</code></td><td><img src="images/sad-blob.gif" width="32px"></td></tr>
 <tr><td><code>:sad-kid:</code></td><td><img src="images/sad-kid.gif" width="32px"></td></tr>
