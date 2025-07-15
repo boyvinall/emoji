@@ -81,6 +81,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:f:</code></td><td><img src="images/f.png" width="32px"></td></tr>
 <tr><td><code>:face-melt:</code></td><td><img src="images/face-melt.png" width="32px"></td></tr>
 <tr><td><code>:facepalm-picard:</code></td><td><img src="images/facepalm-picard.png" width="32px"></td></tr>
+<tr><td><code>:fake-news:</code></td><td><img src="images/fake-news.gif" width="32px"></td></tr>
 <tr><td><code>:famouslastwords:</code></td><td><img src="images/famouslastwords.gif" width="32px"></td></tr>
 <tr><td><code>:fastparrot:</code></td><td><img src="images/fastparrot.gif" width="32px"></td></tr>
 <tr><td><code>:finger-guns:</code></td><td><img src="images/finger-guns.gif" width="32px"></td></tr>
