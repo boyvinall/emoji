@@ -22,6 +22,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:alert:</code></td><td><img src="images/alert.gif" width="32px"></td></tr>
 <tr><td><code>:all-the-things:</code></td><td><img src="images/all-the-things.jpg" width="32px"></td></tr>
 <tr><td><code>:amaze:</code></td><td><img src="images/amaze.gif" width="32px"></td></tr>
+<tr><td><code>:angry-duck:</code></td><td><img src="images/angry-duck.gif" width="32px"></td></tr>
 <tr><td><code>:angry-potato:</code></td><td><img src="images/angry-potato.gif" width="32px"></td></tr>
 <tr><td><code>:approved-stamp:</code></td><td><img src="images/approved-stamp.png" width="32px"></td></tr>
 <tr><td><code>:approvedd:</code></td><td><img src="images/approvedd.png" width="32px"></td></tr>
