@@ -20,6 +20,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:ah-oui:</code></td><td><img src="images/ah-oui.png" width="32px"></td></tr>
 <tr><td><code>:ai-thumbsup:</code></td><td><img src="images/ai-thumbsup.png" width="32px"></td></tr>
 <tr><td><code>:alert:</code></td><td><img src="images/alert.gif" width="32px"></td></tr>
+<tr><td><code>:alice-falls-down-rabbit-hole:</code></td><td><img src="images/alice-falls-down-rabbit-hole.gif" width="32px"></td></tr>
 <tr><td><code>:all-the-things:</code></td><td><img src="images/all-the-things.jpg" width="32px"></td></tr>
 <tr><td><code>:amaze:</code></td><td><img src="images/amaze.gif" width="32px"></td></tr>
 <tr><td><code>:angry-duck:</code></td><td><img src="images/angry-duck.gif" width="32px"></td></tr>
@@ -87,6 +88,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:fastparrot:</code></td><td><img src="images/fastparrot.gif" width="32px"></td></tr>
 <tr><td><code>:finger-guns:</code></td><td><img src="images/finger-guns.gif" width="32px"></td></tr>
 <tr><td><code>:finger:</code></td><td><img src="images/finger.png" width="32px"></td></tr>
+<tr><td><code>:fire-in-the-hole:</code></td><td><img src="images/fire-in-the-hole.png" width="32px"></td></tr>
 <tr><td><code>:flex-right:</code></td><td><img src="images/flex-right.gif" width="32px"></td></tr>
 <tr><td><code>:flex:</code></td><td><img src="images/flex.gif" width="32px"></td></tr>
 <tr><td><code>:focus-time-dnd:</code></td><td><img src="images/focus-time-dnd.png" width="32px"></td></tr>
@@ -103,6 +105,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:hear-no-evil:</code></td><td><img src="images/hear-no-evil.png" width="32px"></td></tr>
 <tr><td><code>:heart:</code></td><td><img src="images/heart.png" width="32px"></td></tr>
 <tr><td><code>:hell:</code></td><td><img src="images/hell.gif" width="32px"></td></tr>
+<tr><td><code>:hodor:</code></td><td><img src="images/hodor.png" width="32px"></td></tr>
 <tr><td><code>:interrobang:</code></td><td><img src="images/interrobang.png" width="32px"></td></tr>
 <tr><td><code>:its-a-fork:</code></td><td><img src="images/its-a-fork.png" width="32px"></td></tr>
 <tr><td><code>:its-happening:</code></td><td><img src="images/its-happening.gif" width="32px"></td></tr>
