@@ -91,6 +91,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:friday-then:</code></td><td><img src="images/friday-then.gif" width="32px"></td></tr>
 <tr><td><code>:frog-wow-scroll:</code></td><td><img src="images/frog-wow-scroll.gif" width="32px"></td></tr>
 <tr><td><code>:gonzo:</code></td><td><img src="images/gonzo.png" width="32px"></td></tr>
+<tr><td><code>:goodnews:</code></td><td><img src="images/goodnews.png" width="32px"></td></tr>
 <tr><td><code>:gottarun:</code></td><td><img src="images/gottarun.gif" width="32px"></td></tr>
 <tr><td><code>:ha-ha:</code></td><td><img src="images/ha-ha.png" width="32px"></td></tr>
 <tr><td><code>:hackerman1:</code></td><td><img src="images/hackerman1.png" width="32px"></td></tr>
@@ -99,6 +100,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:health_pack:</code></td><td><img src="images/health_pack.png" width="32px"></td></tr>
 <tr><td><code>:hear-no-evil:</code></td><td><img src="images/hear-no-evil.png" width="32px"></td></tr>
 <tr><td><code>:heart:</code></td><td><img src="images/heart.png" width="32px"></td></tr>
+<tr><td><code>:hell:</code></td><td><img src="images/hell.gif" width="32px"></td></tr>
 <tr><td><code>:interrobang:</code></td><td><img src="images/interrobang.png" width="32px"></td></tr>
 <tr><td><code>:its-a-fork:</code></td><td><img src="images/its-a-fork.png" width="32px"></td></tr>
 <tr><td><code>:its-happening:</code></td><td><img src="images/its-happening.gif" width="32px"></td></tr>
