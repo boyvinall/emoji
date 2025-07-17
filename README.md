@@ -47,6 +47,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:button-press-hyper:</code></td><td><img src="images/button-press-hyper.gif" width="32px"></td></tr>
 <tr><td><code>:canofworms:</code></td><td><img src="images/canofworms.gif" width="32px"></td></tr>
 <tr><td><code>:carlton:</code></td><td><img src="images/carlton.gif" width="32px"></td></tr>
+<tr><td><code>:cat-bonk:</code></td><td><img src="images/cat-bonk.gif" width="32px"></td></tr>
 <tr><td><code>:cat-clap:</code></td><td><img src="images/cat-clap.gif" width="32px"></td></tr>
 <tr><td><code>:celebrate:</code></td><td><img src="images/celebrate.gif" width="32px"></td></tr>
 <tr><td><code>:centos:</code></td><td><img src="images/centos.png" width="32px"></td></tr>
