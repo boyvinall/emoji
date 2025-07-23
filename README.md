@@ -60,6 +60,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:chompy:</code></td><td><img src="images/chompy.gif" width="32px"></td></tr>
 <tr><td><code>:cleaning-broom:</code></td><td><img src="images/cleaning-broom.gif" width="32px"></td></tr>
 <tr><td><code>:comfy-panic:</code></td><td><img src="images/comfy-panic.gif" width="32px"></td></tr>
+<tr><td><code>:commented:</code></td><td><img src="images/commented.png" width="32px"></td></tr>
 <tr><td><code>:community:</code></td><td><img src="images/community.png" width="32px"></td></tr>
 <tr><td><code>:confused-dog:</code></td><td><img src="images/confused-dog.gif" width="32px"></td></tr>
 <tr><td><code>:cool-dog:</code></td><td><img src="images/cool-dog.gif" width="32px"></td></tr>
