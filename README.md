@@ -205,6 +205,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:skips:</code></td><td><img src="images/skips.jpg" width="32px"></td></tr>
 <tr><td><code>:sloth:</code></td><td><img src="images/sloth.png" width="32px"></td></tr>
 <tr><td><code>:smart:</code></td><td><img src="images/smart.gif" width="32px"></td></tr>
+<tr><td><code>:smoking-gun:</code></td><td><img src="images/smoking-gun.png" width="32px"></td></tr>
 <tr><td><code>:so-shiny:</code></td><td><img src="images/so-shiny.png" width="32px"></td></tr>
 <tr><td><code>:sonicrun:</code></td><td><img src="images/sonicrun.gif" width="32px"></td></tr>
 <tr><td><code>:sorry:</code></td><td><img src="images/sorry.png" width="32px"></td></tr>
