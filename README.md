@@ -31,6 +31,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:awesome:</code></td><td><img src="images/awesome.gif" width="32px"></td></tr>
 <tr><td><code>:azure-party:</code></td><td><img src="images/azure-party.gif" width="32px"></td></tr>
 <tr><td><code>:baby-yoda:</code></td><td><img src="images/baby-yoda.png" width="32px"></td></tr>
+<tr><td><code>:badumtsss:</code></td><td><img src="images/badumtsss.gif" width="32px"></td></tr>
 <tr><td><code>:baguette-bonk-doge:</code></td><td><img src="images/baguette-bonk-doge.gif" width="32px"></td></tr>
 <tr><td><code>:batman:</code></td><td><img src="images/batman.jpg" width="32px"></td></tr>
 <tr><td><code>:beating-a-dead-horse:</code></td><td><img src="images/beating-a-dead-horse.gif" width="32px"></td></tr>
@@ -76,6 +77,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:docs-approval:</code></td><td><img src="images/docs-approval.png" width="32px"></td></tr>
 <tr><td><code>:docs-disapproval:</code></td><td><img src="images/docs-disapproval.png" width="32px"></td></tr>
 <tr><td><code>:docs-sad:</code></td><td><img src="images/docs-sad.png" width="32px"></td></tr>
+<tr><td><code>:drum-roll:</code></td><td><img src="images/drum-roll.gif" width="32px"></td></tr>
 <tr><td><code>:eek:</code></td><td><img src="images/eek.gif" width="32px"></td></tr>
 <tr><td><code>:epic-gandalf:</code></td><td><img src="images/epic-gandalf.gif" width="32px"></td></tr>
 <tr><td><code>:epic-win:</code></td><td><img src="images/epic-win.gif" width="32px"></td></tr>
@@ -101,6 +103,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:gottarun:</code></td><td><img src="images/gottarun.gif" width="32px"></td></tr>
 <tr><td><code>:ha-ha:</code></td><td><img src="images/ha-ha.png" width="32px"></td></tr>
 <tr><td><code>:hackerman1:</code></td><td><img src="images/hackerman1.png" width="32px"></td></tr>
+<tr><td><code>:hand-raise:</code></td><td><img src="images/hand-raise.png" width="32px"></td></tr>
 <tr><td><code>:handshake:</code></td><td><img src="images/handshake.png" width="32px"></td></tr>
 <tr><td><code>:heal:</code></td><td><img src="images/heal.png" width="32px"></td></tr>
 <tr><td><code>:health_pack:</code></td><td><img src="images/health_pack.png" width="32px"></td></tr>
