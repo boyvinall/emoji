@@ -105,6 +105,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:hackerman1:</code></td><td><img src="images/hackerman1.png" width="32px"></td></tr>
 <tr><td><code>:hand-raise:</code></td><td><img src="images/hand-raise.png" width="32px"></td></tr>
 <tr><td><code>:handshake:</code></td><td><img src="images/handshake.png" width="32px"></td></tr>
+<tr><td><code>:have-you-tried-turning-it-off-and-on-again:</code></td><td><img src="images/have-you-tried-turning-it-off-and-on-again.png" width="32px"></td></tr>
 <tr><td><code>:heal:</code></td><td><img src="images/heal.png" width="32px"></td></tr>
 <tr><td><code>:health_pack:</code></td><td><img src="images/health_pack.png" width="32px"></td></tr>
 <tr><td><code>:hear-no-evil:</code></td><td><img src="images/hear-no-evil.png" width="32px"></td></tr>
