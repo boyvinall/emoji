@@ -18,6 +18,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:ack:</code></td><td><img src="images/ack.png" width="32px"></td></tr>
 <tr><td><code>:afoot:</code></td><td><img src="images/afoot.png" width="32px"></td></tr>
 <tr><td><code>:ah-oui:</code></td><td><img src="images/ah-oui.png" width="32px"></td></tr>
+<tr><td><code>:aha:</code></td><td><img src="images/aha.png" width="32px"></td></tr>
 <tr><td><code>:ai-thumbsup:</code></td><td><img src="images/ai-thumbsup.png" width="32px"></td></tr>
 <tr><td><code>:alert:</code></td><td><img src="images/alert.gif" width="32px"></td></tr>
 <tr><td><code>:alice-falls-down-rabbit-hole:</code></td><td><img src="images/alice-falls-down-rabbit-hole.gif" width="32px"></td></tr>
