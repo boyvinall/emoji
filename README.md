@@ -80,6 +80,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:docs-approval:</code></td><td><img src="images/docs-approval.png" width="32px"></td></tr>
 <tr><td><code>:docs-disapproval:</code></td><td><img src="images/docs-disapproval.png" width="32px"></td></tr>
 <tr><td><code>:docs-sad:</code></td><td><img src="images/docs-sad.png" width="32px"></td></tr>
+<tr><td><code>:doit:</code></td><td><img src="images/doit.png" width="32px"></td></tr>
 <tr><td><code>:dr-evil:</code></td><td><img src="images/dr-evil.png" width="32px"></td></tr>
 <tr><td><code>:drum-roll:</code></td><td><img src="images/drum-roll.gif" width="32px"></td></tr>
 <tr><td><code>:eek:</code></td><td><img src="images/eek.gif" width="32px"></td></tr>
