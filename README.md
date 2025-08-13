@@ -248,6 +248,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:ubuntu:</code></td><td><img src="images/ubuntu.png" width="32px"></td></tr>
 <tr><td><code>:vacationintensifies:</code></td><td><img src="images/vacationintensifies.gif" width="32px"></td></tr>
 <tr><td><code>:very-nice:</code></td><td><img src="images/very-nice.jpg" width="32px"></td></tr>
+<tr><td><code>:vibe_:</code></td><td><img src="images/vibe_.gif" width="32px"></td></tr>
 <tr><td><code>:vibe:</code></td><td><img src="images/vibe.gif" width="32px"></td></tr>
 <tr><td><code>:waiting:</code></td><td><img src="images/waiting.gif" width="32px"></td></tr>
 <tr><td><code>:wat:</code></td><td><img src="images/wat.png" width="32px"></td></tr>
