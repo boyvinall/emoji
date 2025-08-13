@@ -26,6 +26,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:amaze:</code></td><td><img src="images/amaze.gif" width="32px"></td></tr>
 <tr><td><code>:angry-duck:</code></td><td><img src="images/angry-duck.gif" width="32px"></td></tr>
 <tr><td><code>:angry-potato:</code></td><td><img src="images/angry-potato.gif" width="32px"></td></tr>
+<tr><td><code>:approved-stamp-anim:</code></td><td><img src="images/approved-stamp-anim.gif" width="32px"></td></tr>
 <tr><td><code>:approved-stamp:</code></td><td><img src="images/approved-stamp.png" width="32px"></td></tr>
 <tr><td><code>:approvedd:</code></td><td><img src="images/approvedd.png" width="32px"></td></tr>
 <tr><td><code>:aw-yeah:</code></td><td><img src="images/aw-yeah.gif" width="32px"></td></tr>
@@ -78,12 +79,14 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:docs-approval:</code></td><td><img src="images/docs-approval.png" width="32px"></td></tr>
 <tr><td><code>:docs-disapproval:</code></td><td><img src="images/docs-disapproval.png" width="32px"></td></tr>
 <tr><td><code>:docs-sad:</code></td><td><img src="images/docs-sad.png" width="32px"></td></tr>
+<tr><td><code>:dr-evil:</code></td><td><img src="images/dr-evil.png" width="32px"></td></tr>
 <tr><td><code>:drum-roll:</code></td><td><img src="images/drum-roll.gif" width="32px"></td></tr>
 <tr><td><code>:eek:</code></td><td><img src="images/eek.gif" width="32px"></td></tr>
 <tr><td><code>:epic-gandalf:</code></td><td><img src="images/epic-gandalf.gif" width="32px"></td></tr>
 <tr><td><code>:epic-win:</code></td><td><img src="images/epic-win.gif" width="32px"></td></tr>
 <tr><td><code>:everything-is-awesome:</code></td><td><img src="images/everything-is-awesome.png" width="32px"></td></tr>
 <tr><td><code>:exciting:</code></td><td><img src="images/exciting.gif" width="32px"></td></tr>
+<tr><td><code>:eyes-looking:</code></td><td><img src="images/eyes-looking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes:</code></td><td><img src="images/eyes.png" width="32px"></td></tr>
 <tr><td><code>:f:</code></td><td><img src="images/f.png" width="32px"></td></tr>
 <tr><td><code>:face-melt:</code></td><td><img src="images/face-melt.png" width="32px"></td></tr>
@@ -232,6 +235,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:thisistheway:</code></td><td><img src="images/thisistheway.png" width="32px"></td></tr>
 <tr><td><code>:thiss:</code></td><td><img src="images/thiss.png" width="32px"></td></tr>
 <tr><td><code>:thread:</code></td><td><img src="images/thread.png" width="32px"></td></tr>
+<tr><td><code>:tick-anim:</code></td><td><img src="images/tick-anim.gif" width="32px"></td></tr>
 <tr><td><code>:til:</code></td><td><img src="images/til.gif" width="32px"></td></tr>
 <tr><td><code>:triggered-shiba:</code></td><td><img src="images/triggered-shiba.gif" width="32px"></td></tr>
 <tr><td><code>:troll:</code></td><td><img src="images/troll.png" width="32px"></td></tr>
@@ -243,6 +247,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:tzzz:</code></td><td><img src="images/tzzz.png" width="32px"></td></tr>
 <tr><td><code>:ubuntu:</code></td><td><img src="images/ubuntu.png" width="32px"></td></tr>
 <tr><td><code>:vacationintensifies:</code></td><td><img src="images/vacationintensifies.gif" width="32px"></td></tr>
+<tr><td><code>:very-nice:</code></td><td><img src="images/very-nice.jpg" width="32px"></td></tr>
 <tr><td><code>:vibe:</code></td><td><img src="images/vibe.gif" width="32px"></td></tr>
 <tr><td><code>:waiting:</code></td><td><img src="images/waiting.gif" width="32px"></td></tr>
 <tr><td><code>:wat:</code></td><td><img src="images/wat.png" width="32px"></td></tr>
