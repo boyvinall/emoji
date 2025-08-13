@@ -73,6 +73,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:dab-panda:</code></td><td><img src="images/dab-panda.png" width="32px"></td></tr>
 <tr><td><code>:dart:</code></td><td><img src="images/dart.png" width="32px"></td></tr>
 <tr><td><code>:data-party:</code></td><td><img src="images/data-party.gif" width="32px"></td></tr>
+<tr><td><code>:data-party:</code></td><td><img src="images/data-party.png" width="32px"></td></tr>
 <tr><td><code>:disappear-in-a-puff-of-smoke:</code></td><td><img src="images/disappear-in-a-puff-of-smoke.gif" width="32px"></td></tr>
 <tr><td><code>:disappear:</code></td><td><img src="images/disappear.gif" width="32px"></td></tr>
 <tr><td><code>:do-it:</code></td><td><img src="images/do-it.gif" width="32px"></td></tr>
@@ -116,6 +117,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:heart:</code></td><td><img src="images/heart.png" width="32px"></td></tr>
 <tr><td><code>:hell:</code></td><td><img src="images/hell.gif" width="32px"></td></tr>
 <tr><td><code>:hodor:</code></td><td><img src="images/hodor.png" width="32px"></td></tr>
+<tr><td><code>:i-for-one-welcome-our-new-ai-overlords:</code></td><td><img src="images/i-for-one-welcome-our-new-ai-overlords.png" width="32px"></td></tr>
 <tr><td><code>:interrobang:</code></td><td><img src="images/interrobang.png" width="32px"></td></tr>
 <tr><td><code>:its-a-fork:</code></td><td><img src="images/its-a-fork.png" width="32px"></td></tr>
 <tr><td><code>:its-happening:</code></td><td><img src="images/its-happening.gif" width="32px"></td></tr>
@@ -188,6 +190,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:pray:</code></td><td><img src="images/pray.png" width="32px"></td></tr>
 <tr><td><code>:reboot:</code></td><td><img src="images/reboot.png" width="32px"></td></tr>
 <tr><td><code>:rick:</code></td><td><img src="images/rick.gif" width="32px"></td></tr>
+<tr><td><code>:robot-doingtherobot:</code></td><td><img src="images/robot-doingtherobot.gif" width="32px"></td></tr>
 <tr><td><code>:rocket-down:</code></td><td><img src="images/rocket-down.png" width="32px"></td></tr>
 <tr><td><code>:rogerthat:</code></td><td><img src="images/rogerthat.jpg" width="32px"></td></tr>
 <tr><td><code>:rubberduck:</code></td><td><img src="images/rubberduck.png" width="32px"></td></tr>
