@@ -72,8 +72,8 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:cry-spin:</code></td><td><img src="images/cry-spin.gif" width="32px"></td></tr>
 <tr><td><code>:dab-panda:</code></td><td><img src="images/dab-panda.png" width="32px"></td></tr>
 <tr><td><code>:dart:</code></td><td><img src="images/dart.png" width="32px"></td></tr>
+<tr><td><code>:data-party_:</code></td><td><img src="images/data-party_.png" width="32px"></td></tr>
 <tr><td><code>:data-party:</code></td><td><img src="images/data-party.gif" width="32px"></td></tr>
-<tr><td><code>:data-party:</code></td><td><img src="images/data-party.png" width="32px"></td></tr>
 <tr><td><code>:disappear-in-a-puff-of-smoke:</code></td><td><img src="images/disappear-in-a-puff-of-smoke.gif" width="32px"></td></tr>
 <tr><td><code>:disappear:</code></td><td><img src="images/disappear.gif" width="32px"></td></tr>
 <tr><td><code>:do-it:</code></td><td><img src="images/do-it.gif" width="32px"></td></tr>
@@ -99,6 +99,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:finger-guns:</code></td><td><img src="images/finger-guns.gif" width="32px"></td></tr>
 <tr><td><code>:finger:</code></td><td><img src="images/finger.png" width="32px"></td></tr>
 <tr><td><code>:fire-in-the-hole:</code></td><td><img src="images/fire-in-the-hole.png" width="32px"></td></tr>
+<tr><td><code>:fixed:</code></td><td><img src="images/fixed.png" width="32px"></td></tr>
 <tr><td><code>:flex-right:</code></td><td><img src="images/flex-right.gif" width="32px"></td></tr>
 <tr><td><code>:flex:</code></td><td><img src="images/flex.gif" width="32px"></td></tr>
 <tr><td><code>:focus-time-dnd:</code></td><td><img src="images/focus-time-dnd.png" width="32px"></td></tr>
@@ -212,6 +213,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:shipitparrot:</code></td><td><img src="images/shipitparrot.gif" width="32px"></td></tr>
 <tr><td><code>:shitdisco:</code></td><td><img src="images/shitdisco.gif" width="32px"></td></tr>
 <tr><td><code>:shrugging-old-man:</code></td><td><img src="images/shrugging-old-man.png" width="32px"></td></tr>
+<tr><td><code>:siiiick:</code></td><td><img src="images/siiiick.gif" width="32px"></td></tr>
 <tr><td><code>:siren:</code></td><td><img src="images/siren.gif" width="32px"></td></tr>
 <tr><td><code>:skipping:</code></td><td><img src="images/skipping.gif" width="32px"></td></tr>
 <tr><td><code>:skips:</code></td><td><img src="images/skips.jpg" width="32px"></td></tr>
