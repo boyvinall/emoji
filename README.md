@@ -276,6 +276,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:wow-fb:</code></td><td><img src="images/wow-fb.gif" width="32px"></td></tr>
 <tr><td><code>:wow-kazoo-kid:</code></td><td><img src="images/wow-kazoo-kid.gif" width="32px"></td></tr>
 <tr><td><code>:wtf:</code></td><td><img src="images/wtf.png" width="32px"></td></tr>
+<tr><td><code>:yak-shaving:</code></td><td><img src="images/yak-shaving.png" width="32px"></td></tr>
 <tr><td><code>:yeah:</code></td><td><img src="images/yeah.png" width="32px"></td></tr>
 <tr><td><code>:yes-cat:</code></td><td><img src="images/yes-cat.gif" width="32px"></td></tr>
 <tr><td><code>:yes-indeed:</code></td><td><img src="images/yes-indeed.png" width="32px"></td></tr>
