@@ -160,6 +160,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:not-me:</code></td><td><img src="images/not-me.jpg" width="32px"></td></tr>
 <tr><td><code>:np:</code></td><td><img src="images/np.gif" width="32px"></td></tr>
 <tr><td><code>:nuclear-bomb:</code></td><td><img src="images/nuclear-bomb.gif" width="32px"></td></tr>
+<tr><td><code>:oh-my:</code></td><td><img src="images/oh-my.gif" width="32px"></td></tr>
 <tr><td><code>:oh-no:</code></td><td><img src="images/oh-no.png" width="32px"></td></tr>
 <tr><td><code>:ok-hand:</code></td><td><img src="images/ok-hand.png" width="32px"></td></tr>
 <tr><td><code>:ok:</code></td><td><img src="images/ok.png" width="32px"></td></tr>
@@ -255,7 +256,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:tzzz:</code></td><td><img src="images/tzzz.png" width="32px"></td></tr>
 <tr><td><code>:ubuntu:</code></td><td><img src="images/ubuntu.png" width="32px"></td></tr>
 <tr><td><code>:vacationintensifies:</code></td><td><img src="images/vacationintensifies.gif" width="32px"></td></tr>
-<tr><td><code>:very-nice:</code></td><td><img src="images/very-nice.jpg" width="32px"></td></tr>
+<tr><td><code>:very-nice:</code></td><td><img src="images/very-nice.png" width="32px"></td></tr>
 <tr><td><code>:vibe_:</code></td><td><img src="images/vibe_.gif" width="32px"></td></tr>
 <tr><td><code>:vibe:</code></td><td><img src="images/vibe.gif" width="32px"></td></tr>
 <tr><td><code>:waiting:</code></td><td><img src="images/waiting.gif" width="32px"></td></tr>
