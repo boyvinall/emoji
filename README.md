@@ -87,6 +87,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:epic-gandalf:</code></td><td><img src="images/epic-gandalf.gif" width="32px"></td></tr>
 <tr><td><code>:epic-win:</code></td><td><img src="images/epic-win.gif" width="32px"></td></tr>
 <tr><td><code>:everything-is-awesome:</code></td><td><img src="images/everything-is-awesome.png" width="32px"></td></tr>
+<tr><td><code>:excellent-mrburns:</code></td><td><img src="images/excellent-mrburns.gif" width="32px"></td></tr>
 <tr><td><code>:exciting:</code></td><td><img src="images/exciting.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-looking:</code></td><td><img src="images/eyes-looking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes:</code></td><td><img src="images/eyes.png" width="32px"></td></tr>
