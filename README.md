@@ -124,6 +124,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:in-the-beginning-was-the-command-line:</code></td><td><img src="images/in-the-beginning-was-the-command-line.jpg" width="32px"></td></tr>
 <tr><td><code>:interrobang:</code></td><td><img src="images/interrobang.png" width="32px"></td></tr>
 <tr><td><code>:its-a-fork:</code></td><td><img src="images/its-a-fork.png" width="32px"></td></tr>
+<tr><td><code>:its-alive:</code></td><td><img src="images/its-alive.gif" width="32px"></td></tr>
 <tr><td><code>:its-happening:</code></td><td><img src="images/its-happening.gif" width="32px"></td></tr>
 <tr><td><code>:its-you:</code></td><td><img src="images/its-you.gif" width="32px"></td></tr>
 <tr><td><code>:k:</code></td><td><img src="images/k.png" width="32px"></td></tr>
