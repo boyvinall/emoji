@@ -283,6 +283,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:yeah:</code></td><td><img src="images/yeah.png" width="32px"></td></tr>
 <tr><td><code>:yes-cat:</code></td><td><img src="images/yes-cat.gif" width="32px"></td></tr>
 <tr><td><code>:yes-indeed:</code></td><td><img src="images/yes-indeed.png" width="32px"></td></tr>
+<tr><td><code>:yoink:</code></td><td><img src="images/yoink.jpg" width="32px"></td></tr>
 <tr><td><code>:you-are-most-welcome:</code></td><td><img src="images/you-are-most-welcome.png" width="32px"></td></tr>
 <tr><td><code>:zoom-intensifies:</code></td><td><img src="images/zoom-intensifies.gif" width="32px"></td></tr>
 <tr><td><code>:zzz:</code></td><td><img src="images/zzz.png" width="32px"></td></tr>
