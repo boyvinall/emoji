@@ -167,6 +167,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:oh-no:</code></td><td><img src="images/oh-no.png" width="32px"></td></tr>
 <tr><td><code>:ok-hand:</code></td><td><img src="images/ok-hand.png" width="32px"></td></tr>
 <tr><td><code>:ok:</code></td><td><img src="images/ok.png" width="32px"></td></tr>
+<tr><td><code>:old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells:</code></td><td><img src="images/old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells-at-old-man-yells.gif" width="32px"></td></tr>
 <tr><td><code>:old-man-yells-at-python:</code></td><td><img src="images/old-man-yells-at-python.png" width="32px"></td></tr>
 <tr><td><code>:old-man-yells-left:</code></td><td><img src="images/old-man-yells-left.jpg" width="32px"></td></tr>
 <tr><td><code>:on-it:</code></td><td><img src="images/on-it.png" width="32px"></td></tr>
