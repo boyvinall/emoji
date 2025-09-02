@@ -36,6 +36,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:baby-yoda:</code></td><td><img src="images/baby-yoda.png" width="32px"></td></tr>
 <tr><td><code>:badumtsss:</code></td><td><img src="images/badumtsss.gif" width="32px"></td></tr>
 <tr><td><code>:baguette-bonk-doge:</code></td><td><img src="images/baguette-bonk-doge.gif" width="32px"></td></tr>
+<tr><td><code>:bar-party:</code></td><td><img src="images/bar-party.png" width="32px"></td></tr>
 <tr><td><code>:batman:</code></td><td><img src="images/batman.jpg" width="32px"></td></tr>
 <tr><td><code>:beating-a-dead-horse:</code></td><td><img src="images/beating-a-dead-horse.gif" width="32px"></td></tr>
 <tr><td><code>:beers-beers-beers:</code></td><td><img src="images/beers-beers-beers.gif" width="32px"></td></tr>
