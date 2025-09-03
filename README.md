@@ -76,6 +76,8 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:dart:</code></td><td><img src="images/dart.png" width="32px"></td></tr>
 <tr><td><code>:data-party_:</code></td><td><img src="images/data-party_.png" width="32px"></td></tr>
 <tr><td><code>:data-party:</code></td><td><img src="images/data-party.gif" width="32px"></td></tr>
+<tr><td><code>:deploy-button:</code></td><td><img src="images/deploy-button.png" width="32px"></td></tr>
+<tr><td><code>:deploy-parrot:</code></td><td><img src="images/deploy-parrot.gif" width="32px"></td></tr>
 <tr><td><code>:disappear-in-a-puff-of-smoke:</code></td><td><img src="images/disappear-in-a-puff-of-smoke.gif" width="32px"></td></tr>
 <tr><td><code>:disappear:</code></td><td><img src="images/disappear.gif" width="32px"></td></tr>
 <tr><td><code>:do-it:</code></td><td><img src="images/do-it.gif" width="32px"></td></tr>
