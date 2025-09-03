@@ -265,6 +265,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:vibe_:</code></td><td><img src="images/vibe_.gif" width="32px"></td></tr>
 <tr><td><code>:vibe:</code></td><td><img src="images/vibe.gif" width="32px"></td></tr>
 <tr><td><code>:waiting:</code></td><td><img src="images/waiting.gif" width="32px"></td></tr>
+<tr><td><code>:walking-the-dog:</code></td><td><img src="images/walking-the-dog.png" width="32px"></td></tr>
 <tr><td><code>:wat:</code></td><td><img src="images/wat.png" width="32px"></td></tr>
 <tr><td><code>:watching-this:</code></td><td><img src="images/watching-this.png" width="32px"></td></tr>
 <tr><td><code>:wave:</code></td><td><img src="images/wave.png" width="32px"></td></tr>
