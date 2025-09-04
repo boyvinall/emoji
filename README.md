@@ -111,6 +111,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:friday-then:</code></td><td><img src="images/friday-then.gif" width="32px"></td></tr>
 <tr><td><code>:frog-wow-scroll:</code></td><td><img src="images/frog-wow-scroll.gif" width="32px"></td></tr>
 <tr><td><code>:gonzo:</code></td><td><img src="images/gonzo.png" width="32px"></td></tr>
+<tr><td><code>:good-idea:</code></td><td><img src="images/good-idea.png" width="32px"></td></tr>
 <tr><td><code>:goodnews:</code></td><td><img src="images/goodnews.png" width="32px"></td></tr>
 <tr><td><code>:gottarun:</code></td><td><img src="images/gottarun.gif" width="32px"></td></tr>
 <tr><td><code>:ha-ha:</code></td><td><img src="images/ha-ha.png" width="32px"></td></tr>
