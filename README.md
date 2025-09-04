@@ -142,6 +142,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:lucks-clover:</code></td><td><img src="images/lucks-clover.gif" width="32px"></td></tr>
 <tr><td><code>:magic:</code></td><td><img src="images/magic.gif" width="32px"></td></tr>
 <tr><td><code>:maintenance:</code></td><td><img src="images/maintenance.png" width="32px"></td></tr>
+<tr><td><code>:mario-pipe:</code></td><td><img src="images/mario-pipe.png" width="32px"></td></tr>
 <tr><td><code>:mario-star-animated:</code></td><td><img src="images/mario-star-animated.gif" width="32px"></td></tr>
 <tr><td><code>:meow-really:</code></td><td><img src="images/meow-really.png" width="32px"></td></tr>
 <tr><td><code>:meowfearful:</code></td><td><img src="images/meowfearful.png" width="32px"></td></tr>
@@ -235,6 +236,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:sorry:</code></td><td><img src="images/sorry.png" width="32px"></td></tr>
 <tr><td><code>:spaghetti:</code></td><td><img src="images/spaghetti.png" width="32px"></td></tr>
 <tr><td><code>:spin-shrug:</code></td><td><img src="images/spin-shrug.gif" width="32px"></td></tr>
+<tr><td><code>:spinning-coin:</code></td><td><img src="images/spinning-coin.gif" width="32px"></td></tr>
 <tr><td><code>:squirrel-jam:</code></td><td><img src="images/squirrel-jam.gif" width="32px"></td></tr>
 <tr><td><code>:star:</code></td><td><img src="images/star.png" width="32px"></td></tr>
 <tr><td><code>:success:</code></td><td><img src="images/success.png" width="32px"></td></tr>
