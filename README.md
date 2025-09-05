@@ -139,6 +139,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:lftp:</code></td><td><img src="images/lftp.png" width="32px"></td></tr>
 <tr><td><code>:lgtm:</code></td><td><img src="images/lgtm.png" width="32px"></td></tr>
 <tr><td><code>:loading:</code></td><td><img src="images/loading.gif" width="32px"></td></tr>
+<tr><td><code>:lol:</code></td><td><img src="images/lol.png" width="32px"></td></tr>
 <tr><td><code>:loudspeaker:</code></td><td><img src="images/loudspeaker.png" width="32px"></td></tr>
 <tr><td><code>:lucks-clover:</code></td><td><img src="images/lucks-clover.gif" width="32px"></td></tr>
 <tr><td><code>:magic:</code></td><td><img src="images/magic.gif" width="32px"></td></tr>
