@@ -94,6 +94,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:excellent-mrburns:</code></td><td><img src="images/excellent-mrburns.gif" width="32px"></td></tr>
 <tr><td><code>:exciting:</code></td><td><img src="images/exciting.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-looking:</code></td><td><img src="images/eyes-looking.gif" width="32px"></td></tr>
+<tr><td><code>:eyes-shaking:</code></td><td><img src="images/eyes-shaking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes:</code></td><td><img src="images/eyes.png" width="32px"></td></tr>
 <tr><td><code>:f:</code></td><td><img src="images/f.png" width="32px"></td></tr>
 <tr><td><code>:face-melt:</code></td><td><img src="images/face-melt.png" width="32px"></td></tr>
