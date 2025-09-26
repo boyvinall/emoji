@@ -41,6 +41,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:beating-a-dead-horse:</code></td><td><img src="images/beating-a-dead-horse.gif" width="32px"></td></tr>
 <tr><td><code>:beers-beers-beers:</code></td><td><img src="images/beers-beers-beers.gif" width="32px"></td></tr>
 <tr><td><code>:best-emoji:</code></td><td><img src="images/best-emoji.gif" width="32px"></td></tr>
+<tr><td><code>:bloblaugh:</code></td><td><img src="images/bloblaugh.gif" width="32px"></td></tr>
 <tr><td><code>:boom:</code></td><td><img src="images/boom.png" width="32px"></td></tr>
 <tr><td><code>:brace-yourselves:</code></td><td><img src="images/brace-yourselves.jpg" width="32px"></td></tr>
 <tr><td><code>:brexit-intensifies:</code></td><td><img src="images/brexit-intensifies.gif" width="32px"></td></tr>
