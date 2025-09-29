@@ -126,6 +126,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:hear-no-evil:</code></td><td><img src="images/hear-no-evil.png" width="32px"></td></tr>
 <tr><td><code>:heart:</code></td><td><img src="images/heart.png" width="32px"></td></tr>
 <tr><td><code>:hell:</code></td><td><img src="images/hell.gif" width="32px"></td></tr>
+<tr><td><code>:helpful:</code></td><td><img src="images/helpful.png" width="32px"></td></tr>
 <tr><td><code>:hodor:</code></td><td><img src="images/hodor.png" width="32px"></td></tr>
 <tr><td><code>:i-for-one-welcome-our-new-ai-overlords:</code></td><td><img src="images/i-for-one-welcome-our-new-ai-overlords.png" width="32px"></td></tr>
 <tr><td><code>:in-the-beginning-was-the-command-line:</code></td><td><img src="images/in-the-beginning-was-the-command-line.jpg" width="32px"></td></tr>
