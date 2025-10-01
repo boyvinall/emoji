@@ -169,6 +169,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:nooooooooo:</code></td><td><img src="images/nooooooooo.gif" width="32px"></td></tr>
 <tr><td><code>:nopain:</code></td><td><img src="images/nopain.jpg" width="32px"></td></tr>
 <tr><td><code>:nope:</code></td><td><img src="images/nope.gif" width="32px"></td></tr>
+<tr><td><code>:noprobllama:</code></td><td><img src="images/noprobllama.jpg" width="32px"></td></tr>
 <tr><td><code>:not-me:</code></td><td><img src="images/not-me.jpg" width="32px"></td></tr>
 <tr><td><code>:np:</code></td><td><img src="images/np.gif" width="32px"></td></tr>
 <tr><td><code>:nuclear-bomb:</code></td><td><img src="images/nuclear-bomb.gif" width="32px"></td></tr>
