@@ -227,6 +227,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:screamy:</code></td><td><img src="images/screamy.gif" width="32px"></td></tr>
 <tr><td><code>:security:</code></td><td><img src="images/security.png" width="32px"></td></tr>
 <tr><td><code>:see-no-evil:</code></td><td><img src="images/see-no-evil.png" width="32px"></td></tr>
+<tr><td><code>:shame:</code></td><td><img src="images/shame.gif" width="32px"></td></tr>
 <tr><td><code>:sherlock:</code></td><td><img src="images/sherlock.png" width="32px"></td></tr>
 <tr><td><code>:shipitparrot:</code></td><td><img src="images/shipitparrot.gif" width="32px"></td></tr>
 <tr><td><code>:shitdisco:</code></td><td><img src="images/shitdisco.gif" width="32px"></td></tr>
