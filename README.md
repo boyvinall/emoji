@@ -150,6 +150,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:maintenance:</code></td><td><img src="images/maintenance.png" width="32px"></td></tr>
 <tr><td><code>:mario-pipe:</code></td><td><img src="images/mario-pipe.png" width="32px"></td></tr>
 <tr><td><code>:mario-star-animated:</code></td><td><img src="images/mario-star-animated.gif" width="32px"></td></tr>
+<tr><td><code>:matrix:</code></td><td><img src="images/matrix.gif" width="32px"></td></tr>
 <tr><td><code>:meow-really:</code></td><td><img src="images/meow-really.png" width="32px"></td></tr>
 <tr><td><code>:meowfearful:</code></td><td><img src="images/meowfearful.png" width="32px"></td></tr>
 <tr><td><code>:mgs-salute:</code></td><td><img src="images/mgs-salute.png" width="32px"></td></tr>
