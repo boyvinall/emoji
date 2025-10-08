@@ -293,6 +293,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:windows-intensifies:</code></td><td><img src="images/windows-intensifies.gif" width="32px"></td></tr>
 <tr><td><code>:windows-loading:</code></td><td><img src="images/windows-loading.gif" width="32px"></td></tr>
 <tr><td><code>:woohoo:</code></td><td><img src="images/woohoo.png" width="32px"></td></tr>
+<tr><td><code>:woop:</code></td><td><img src="images/woop.gif" width="32px"></td></tr>
 <tr><td><code>:word:</code></td><td><img src="images/word.png" width="32px"></td></tr>
 <tr><td><code>:works-on-my-machine:</code></td><td><img src="images/works-on-my-machine.png" width="32px"></td></tr>
 <tr><td><code>:wow-fb:</code></td><td><img src="images/wow-fb.gif" width="32px"></td></tr>
