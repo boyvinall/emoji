@@ -222,6 +222,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:rogerthat:</code></td><td><img src="images/rogerthat.jpg" width="32px"></td></tr>
 <tr><td><code>:rubberduck:</code></td><td><img src="images/rubberduck.png" width="32px"></td></tr>
 <tr><td><code>:ruby:</code></td><td><img src="images/ruby.png" width="32px"></td></tr>
+<tr><td><code>:running-polar-bear:</code></td><td><img src="images/running-polar-bear.gif" width="32px"></td></tr>
 <tr><td><code>:sad-blob:</code></td><td><img src="images/sad-blob.gif" width="32px"></td></tr>
 <tr><td><code>:sad-kid:</code></td><td><img src="images/sad-kid.gif" width="32px"></td></tr>
 <tr><td><code>:sadpanda:</code></td><td><img src="images/sadpanda.png" width="32px"></td></tr>
