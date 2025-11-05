@@ -275,6 +275,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:thisistheway:</code></td><td><img src="images/thisistheway.png" width="32px"></td></tr>
 <tr><td><code>:thiss:</code></td><td><img src="images/thiss.png" width="32px"></td></tr>
 <tr><td><code>:thread:</code></td><td><img src="images/thread.png" width="32px"></td></tr>
+<tr><td><code>:thumbsup-kid:</code></td><td><img src="images/thumbsup-kid.gif" width="32px"></td></tr>
 <tr><td><code>:tick-anim:</code></td><td><img src="images/tick-anim.gif" width="32px"></td></tr>
 <tr><td><code>:til:</code></td><td><img src="images/til.gif" width="32px"></td></tr>
 <tr><td><code>:triggered-shiba:</code></td><td><img src="images/triggered-shiba.gif" width="32px"></td></tr>
