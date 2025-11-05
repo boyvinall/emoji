@@ -87,6 +87,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:docs-approval:</code></td><td><img src="images/docs-approval.png" width="32px"></td></tr>
 <tr><td><code>:docs-disapproval:</code></td><td><img src="images/docs-disapproval.png" width="32px"></td></tr>
 <tr><td><code>:docs-sad:</code></td><td><img src="images/docs-sad.png" width="32px"></td></tr>
+<tr><td><code>:doge-inception:</code></td><td><img src="images/doge-inception.gif" width="32px"></td></tr>
 <tr><td><code>:doit:</code></td><td><img src="images/doit.png" width="32px"></td></tr>
 <tr><td><code>:dr-evil:</code></td><td><img src="images/dr-evil.png" width="32px"></td></tr>
 <tr><td><code>:drum-roll:</code></td><td><img src="images/drum-roll.gif" width="32px"></td></tr>
@@ -234,6 +235,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:scott-eek:</code></td><td><img src="images/scott-eek.gif" width="32px"></td></tr>
 <tr><td><code>:scott-wow:</code></td><td><img src="images/scott-wow.gif" width="32px"></td></tr>
 <tr><td><code>:screamy:</code></td><td><img src="images/screamy.gif" width="32px"></td></tr>
+<tr><td><code>:secure:</code></td><td><img src="images/secure.png" width="32px"></td></tr>
 <tr><td><code>:security:</code></td><td><img src="images/security.png" width="32px"></td></tr>
 <tr><td><code>:see-no-evil:</code></td><td><img src="images/see-no-evil.png" width="32px"></td></tr>
 <tr><td><code>:shame:</code></td><td><img src="images/shame.gif" width="32px"></td></tr>
