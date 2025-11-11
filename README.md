@@ -57,6 +57,8 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:cat-bonk:</code></td><td><img src="images/cat-bonk.gif" width="32px"></td></tr>
 <tr><td><code>:cat-bop:</code></td><td><img src="images/cat-bop.gif" width="32px"></td></tr>
 <tr><td><code>:cat-clap:</code></td><td><img src="images/cat-clap.gif" width="32px"></td></tr>
+<tr><td><code>:cat-vibin-at-the-fastest-human-distinguishable-tempo:</code></td><td><img src="images/cat-vibin-at-the-fastest-human-distinguishable-tempo.gif" width="32px"></td></tr>
+<tr><td><code>:cat-vibin:</code></td><td><img src="images/cat-vibin.gif" width="32px"></td></tr>
 <tr><td><code>:celebrate:</code></td><td><img src="images/celebrate.gif" width="32px"></td></tr>
 <tr><td><code>:centos:</code></td><td><img src="images/centos.png" width="32px"></td></tr>
 <tr><td><code>:ceph-growing:</code></td><td><img src="images/ceph-growing.gif" width="32px"></td></tr>
