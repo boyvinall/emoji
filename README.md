@@ -100,6 +100,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:everything-is-awesome:</code></td><td><img src="images/everything-is-awesome.png" width="32px"></td></tr>
 <tr><td><code>:excellent-mrburns:</code></td><td><img src="images/excellent-mrburns.gif" width="32px"></td></tr>
 <tr><td><code>:exciting:</code></td><td><img src="images/exciting.gif" width="32px"></td></tr>
+<tr><td><code>:extreme-teamwork:</code></td><td><img src="images/extreme-teamwork.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-looking:</code></td><td><img src="images/eyes-looking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-shaking:</code></td><td><img src="images/eyes-shaking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes:</code></td><td><img src="images/eyes.png" width="32px"></td></tr>
