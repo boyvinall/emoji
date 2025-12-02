@@ -76,6 +76,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:confused-dog:</code></td><td><img src="images/confused-dog.gif" width="32px"></td></tr>
 <tr><td><code>:cool-dog:</code></td><td><img src="images/cool-dog.gif" width="32px"></td></tr>
 <tr><td><code>:copy-paste:</code></td><td><img src="images/copy-paste.gif" width="32px"></td></tr>
+<tr><td><code>:covfefe:</code></td><td><img src="images/covfefe.png" width="32px"></td></tr>
 <tr><td><code>:cry-a-lot:</code></td><td><img src="images/cry-a-lot.png" width="32px"></td></tr>
 <tr><td><code>:cry-spin:</code></td><td><img src="images/cry-spin.gif" width="32px"></td></tr>
 <tr><td><code>:dab-panda:</code></td><td><img src="images/dab-panda.png" width="32px"></td></tr>
@@ -323,6 +324,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:yes-indeed:</code></td><td><img src="images/yes-indeed.png" width="32px"></td></tr>
 <tr><td><code>:yoink:</code></td><td><img src="images/yoink.jpg" width="32px"></td></tr>
 <tr><td><code>:you-are-most-welcome:</code></td><td><img src="images/you-are-most-welcome.png" width="32px"></td></tr>
+<tr><td><code>:yuge:</code></td><td><img src="images/yuge.png" width="32px"></td></tr>
 <tr><td><code>:zoom-intensifies:</code></td><td><img src="images/zoom-intensifies.gif" width="32px"></td></tr>
 <tr><td><code>:zzz:</code></td><td><img src="images/zzz.png" width="32px"></td></tr>
 </table>
