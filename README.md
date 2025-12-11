@@ -24,6 +24,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:alice-falls-down-rabbit-hole:</code></td><td><img src="images/alice-falls-down-rabbit-hole.gif" width="32px"></td></tr>
 <tr><td><code>:all-the-things:</code></td><td><img src="images/all-the-things.jpg" width="32px"></td></tr>
 <tr><td><code>:amaze:</code></td><td><img src="images/amaze.gif" width="32px"></td></tr>
+<tr><td><code>:among-us-rave:</code></td><td><img src="images/among-us-rave.gif" width="32px"></td></tr>
 <tr><td><code>:angry-duck:</code></td><td><img src="images/angry-duck.gif" width="32px"></td></tr>
 <tr><td><code>:angry-potato:</code></td><td><img src="images/angry-potato.gif" width="32px"></td></tr>
 <tr><td><code>:anka-on-fire:</code></td><td><img src="images/anka-on-fire.gif" width="32px"></td></tr>
@@ -80,6 +81,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:cry-a-lot:</code></td><td><img src="images/cry-a-lot.png" width="32px"></td></tr>
 <tr><td><code>:cry-spin:</code></td><td><img src="images/cry-spin.gif" width="32px"></td></tr>
 <tr><td><code>:dab-panda:</code></td><td><img src="images/dab-panda.png" width="32px"></td></tr>
+<tr><td><code>:dad-joke:</code></td><td><img src="images/dad-joke.png" width="32px"></td></tr>
 <tr><td><code>:dart:</code></td><td><img src="images/dart.png" width="32px"></td></tr>
 <tr><td><code>:data-party_:</code></td><td><img src="images/data-party_.png" width="32px"></td></tr>
 <tr><td><code>:data-party:</code></td><td><img src="images/data-party.gif" width="32px"></td></tr>
