@@ -228,6 +228,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:reboot:</code></td><td><img src="images/reboot.png" width="32px"></td></tr>
 <tr><td><code>:rick:</code></td><td><img src="images/rick.gif" width="32px"></td></tr>
 <tr><td><code>:robot-doingtherobot:</code></td><td><img src="images/robot-doingtherobot.gif" width="32px"></td></tr>
+<tr><td><code>:robot-face:</code></td><td><img src="images/robot-face.png" width="32px"></td></tr>
 <tr><td><code>:rocket-down:</code></td><td><img src="images/rocket-down.png" width="32px"></td></tr>
 <tr><td><code>:rogerthat:</code></td><td><img src="images/rogerthat.jpg" width="32px"></td></tr>
 <tr><td><code>:rubberduck:</code></td><td><img src="images/rubberduck.png" width="32px"></td></tr>
