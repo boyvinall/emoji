@@ -89,6 +89,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:deploy-parrot:</code></td><td><img src="images/deploy-parrot.gif" width="32px"></td></tr>
 <tr><td><code>:disappear-in-a-puff-of-smoke:</code></td><td><img src="images/disappear-in-a-puff-of-smoke.gif" width="32px"></td></tr>
 <tr><td><code>:disappear:</code></td><td><img src="images/disappear.gif" width="32px"></td></tr>
+<tr><td><code>:dns:</code></td><td><img src="images/dns.jpg" width="32px"></td></tr>
 <tr><td><code>:do-it:</code></td><td><img src="images/do-it.gif" width="32px"></td></tr>
 <tr><td><code>:docs-approval:</code></td><td><img src="images/docs-approval.png" width="32px"></td></tr>
 <tr><td><code>:docs-disapproval:</code></td><td><img src="images/docs-disapproval.png" width="32px"></td></tr>
