@@ -227,6 +227,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:pwease:</code></td><td><img src="images/pwease.png" width="32px"></td></tr>
 <tr><td><code>:rave:</code></td><td><img src="images/rave.gif" width="32px"></td></tr>
 <tr><td><code>:reboot:</code></td><td><img src="images/reboot.png" width="32px"></td></tr>
+<tr><td><code>:review:</code></td><td><img src="images/review.png" width="32px"></td></tr>
 <tr><td><code>:rick:</code></td><td><img src="images/rick.gif" width="32px"></td></tr>
 <tr><td><code>:robot-doingtherobot:</code></td><td><img src="images/robot-doingtherobot.gif" width="32px"></td></tr>
 <tr><td><code>:robot-face:</code></td><td><img src="images/robot-face.png" width="32px"></td></tr>
