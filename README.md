@@ -269,6 +269,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:sorry:</code></td><td><img src="images/sorry.png" width="32px"></td></tr>
 <tr><td><code>:spaghetti:</code></td><td><img src="images/spaghetti.png" width="32px"></td></tr>
 <tr><td><code>:sparkles:</code></td><td><img src="images/sparkles.png" width="32px"></td></tr>
+<tr><td><code>:spiderman-pointing:</code></td><td><img src="images/spiderman-pointing.png" width="32px"></td></tr>
 <tr><td><code>:spin-shrug:</code></td><td><img src="images/spin-shrug.gif" width="32px"></td></tr>
 <tr><td><code>:spinning-coin:</code></td><td><img src="images/spinning-coin.gif" width="32px"></td></tr>
 <tr><td><code>:squirrel-jam:</code></td><td><img src="images/squirrel-jam.gif" width="32px"></td></tr>
