@@ -301,6 +301,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:typing-frog:</code></td><td><img src="images/typing-frog.gif" width="32px"></td></tr>
 <tr><td><code>:tzzz:</code></td><td><img src="images/tzzz.png" width="32px"></td></tr>
 <tr><td><code>:ubuntu:</code></td><td><img src="images/ubuntu.png" width="32px"></td></tr>
+<tr><td><code>:uh-oh:</code></td><td><img src="images/uh-oh.png" width="32px"></td></tr>
 <tr><td><code>:vacationintensifies:</code></td><td><img src="images/vacationintensifies.gif" width="32px"></td></tr>
 <tr><td><code>:very-nice:</code></td><td><img src="images/very-nice.png" width="32px"></td></tr>
 <tr><td><code>:vibe_:</code></td><td><img src="images/vibe_.gif" width="32px"></td></tr>
