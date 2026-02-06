@@ -47,6 +47,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:bloblaugh:</code></td><td><img src="images/bloblaugh.gif" width="32px"></td></tr>
 <tr><td><code>:boom:</code></td><td><img src="images/boom.png" width="32px"></td></tr>
 <tr><td><code>:brace-yourselves:</code></td><td><img src="images/brace-yourselves.jpg" width="32px"></td></tr>
+<tr><td><code>:brb:</code></td><td><img src="images/brb.gif" width="32px"></td></tr>
 <tr><td><code>:brexit-intensifies:</code></td><td><img src="images/brexit-intensifies.gif" width="32px"></td></tr>
 <tr><td><code>:brexit:</code></td><td><img src="images/brexit.jpg" width="32px"></td></tr>
 <tr><td><code>:britney:</code></td><td><img src="images/britney.jpg" width="32px"></td></tr>
