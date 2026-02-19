@@ -107,6 +107,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:excellent-mrburns:</code></td><td><img src="images/excellent-mrburns.gif" width="32px"></td></tr>
 <tr><td><code>:exciting:</code></td><td><img src="images/exciting.gif" width="32px"></td></tr>
 <tr><td><code>:extreme-teamwork:</code></td><td><img src="images/extreme-teamwork.gif" width="32px"></td></tr>
+<tr><td><code>:eyepop:</code></td><td><img src="images/eyepop.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-looking:</code></td><td><img src="images/eyes-looking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes-shaking:</code></td><td><img src="images/eyes-shaking.gif" width="32px"></td></tr>
 <tr><td><code>:eyes:</code></td><td><img src="images/eyes.png" width="32px"></td></tr>
@@ -124,6 +125,7 @@ Additionally, extensive of <https://makeemoji.com/> for the obligatory `-intensi
 <tr><td><code>:flex:</code></td><td><img src="images/flex.gif" width="32px"></td></tr>
 <tr><td><code>:focus-time-dnd:</code></td><td><img src="images/focus-time-dnd.png" width="32px"></td></tr>
 <tr><td><code>:friday-then:</code></td><td><img src="images/friday-then.gif" width="32px"></td></tr>
+<tr><td><code>:frog-blind:</code></td><td><img src="images/frog-blind.png" width="32px"></td></tr>
 <tr><td><code>:frog-wow-scroll:</code></td><td><img src="images/frog-wow-scroll.gif" width="32px"></td></tr>
 <tr><td><code>:gonzo:</code></td><td><img src="images/gonzo.png" width="32px"></td></tr>
 <tr><td><code>:good-idea:</code></td><td><img src="images/good-idea.png" width="32px"></td></tr>
